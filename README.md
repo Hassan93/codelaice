@@ -1,5 +1,5 @@
 # codelaice
-<h1>Repositorio para codigo do Blog Codelaice 
+<h1>Repositorio para codigos do Blog Codelaice 
 http://codelaice.wordpress.com</h1>
 
 <p>Repositorio para exposicao de todos exemplos e codigos que seram apresentados
