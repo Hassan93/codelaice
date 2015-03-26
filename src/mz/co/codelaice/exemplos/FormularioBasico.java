@@ -24,7 +24,6 @@ import javafx.stage.Stage;
 /**
  *
  * @author Elton Tomas Laice
- * @size 15/02/2015
  */
 public class FormularioBasico extends Application {
     
